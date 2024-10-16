@@ -8,4 +8,5 @@ https://www.youtube.com/playlist?list=PLyE56WXw0_5Q5QGMEXWmskuhojKyRdA3T
 I'm using plywood for making the modules.
 
 The powersupply build
-![IMG_20240128_132306](https://github.com/user-attachments/assets/f879adde-61fd-48c5-81ef-0ca437325511)
+![IMG_20240128_132306](https://github.com/user-attachments/assets/c1da36f5-a6d3-4429-ae9f-448bbde06d6f)
+
