@@ -11,3 +11,6 @@ The powersupply build:
 
 ![IMG_20240128_132306](https://github.com/user-attachments/assets/c1da36f5-a6d3-4429-ae9f-448bbde06d6f)
 
+The 40106 oscillator bank:
+
+![IMG_20240128_133339](https://github.com/user-attachments/assets/11aa646f-b46a-4d19-8805-611361d00cb9)
