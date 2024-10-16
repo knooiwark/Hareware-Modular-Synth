@@ -7,6 +7,7 @@ https://www.youtube.com/playlist?list=PLyE56WXw0_5Q5QGMEXWmskuhojKyRdA3T
 
 I'm using plywood for making the modules.
 
-The powersupply build
+The powersupply build:
+
 ![IMG_20240128_132306](https://github.com/user-attachments/assets/c1da36f5-a6d3-4429-ae9f-448bbde06d6f)
 
